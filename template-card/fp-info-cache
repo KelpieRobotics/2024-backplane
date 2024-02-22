@@ -1,4 +1,4 @@
-22652304921147878
+22652304921907018
 2024-backplane
 CardEdge_2x10
 
@@ -32,8 +32,8 @@ SW_CUI_DPDT
 
 
 0
-0
-0
+6
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
