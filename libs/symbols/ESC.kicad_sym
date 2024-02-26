@@ -1,0 +1,75 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "ESC" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom))
+    )
+    (property "Value" "ESC" (id 1) (at 0 0.0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom))
+    )
+    (property "Footprint" "ESC:ESC" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "ESC_0_0"
+      (rectangle (start 0.0 0.0) (end 27.94 30.48)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin bidirectional line (at -5.08 27.94 0) (length 5.08)
+        (name "+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "+"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 20.32 0) (length 5.08)
+        (name "S"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 12.7 0) (length 5.08)
+        (name "G"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 5.08 0) (length 5.08)
+        (name "-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "-"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 33.02 22.86 180.0) (length 5.08)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 33.02 15.24 180.0) (length 5.08)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 33.02 7.62 180.0) (length 5.08)
+        (name "3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

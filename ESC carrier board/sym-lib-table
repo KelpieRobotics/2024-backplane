@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESC")(type "KiCad")(uri "/home/dobamuffin/Git/2024-backplane/libs/symbols/ESC.kicad_sym")(options "")(descr ""))
+  (lib (name "Kelpie_Library")(type "KiCad")(uri "/home/dobamuffin/Git/2024-backplane/libs/symbols/Kelpie_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-backplane")(type "KiCad")(uri "/home/dobamuffin/Git/2024-backplane/libs/symbols/2024-backplane.kicad_sym")(options "")(descr ""))
+)
