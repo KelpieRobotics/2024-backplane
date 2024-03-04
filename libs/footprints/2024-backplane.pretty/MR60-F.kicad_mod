@@ -13,4 +13,23 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e8b19138-87da-402b-9114-c72286570e6c)
   )
+  (fp_line (start -5.5 -4.7) (end 5.5 -4.7)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp bb347cec-5133-41da-b087-0e13857bfa0a))
+  (fp_line (start 5.5 4.7) (end -5.5 4.7)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 509ae217-e0f7-466f-aabb-f15f3120b7d2))
+  (fp_arc (start -5.5 4.7) (mid -10.2 0) (end -5.5 -4.7)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp e654b29e-8dc3-4bdb-a0c6-a76eece79b5e))
+  (fp_arc (start 5.5 -4.7) (mid 10.2 0) (end 5.5 4.7)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 86e9a744-8a1d-41ee-8e77-da16138e11ac))
+  (pad "1" thru_hole rect (at -5.5 0) (size 4.9 5.2) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp ef03842b-21b4-46be-90bb-dd467cc0044e))
+  (pad "2" thru_hole rect (at 0 0) (size 4.9 5.2) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 1218512d-2386-4308-8ff8-aff334cd8b2f))
+  (pad "3" thru_hole rect (at 5.5 0) (size 4.9 5.2) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 9c8fa6b2-ec2f-4ca4-852d-d80752d7d263))
+  (group "" (id 45479eaf-41d2-4275-bb85-c5ae073b0825)
+    (members
+      509ae217-e0f7-466f-aabb-f15f3120b7d2
+      86e9a744-8a1d-41ee-8e77-da16138e11ac
+      bb347cec-5133-41da-b087-0e13857bfa0a
+      e654b29e-8dc3-4bdb-a0c6-a76eece79b5e
+    )
+  )
 )
