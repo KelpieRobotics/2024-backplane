@@ -388,15 +388,11 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "2024-backplane"
-    ],
-    "pinned_symbol_libs": [
-      "2024-backplane"
-    ]
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "backplane.kicad_pro",
+    "filename": "template-card.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -473,7 +469,7 @@
   },
   "sheets": [
     [
-      "d02079f5-6f82-436e-968c-8505b701e298",
+      "447f7668-e44a-4076-b3cb-4e0f6120b53c",
       ""
     ]
   ],
