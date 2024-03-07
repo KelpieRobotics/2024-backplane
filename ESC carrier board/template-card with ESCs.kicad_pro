@@ -49,7 +49,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|174657500|92900000|1c44974c-a084-47cb-8105-0c68b5934bc8|00000000-0000-0000-0000-000000000000",
+        "starved_thermal|157905000|34036000|3659f26e-e33e-48b6-b65f-764c4dc661a2|8c8793a6-0bfa-41fe-992c-2ea8970938a9|F.Cu",
+        "starved_thermal|157905000|46736000|3659f26e-e33e-48b6-b65f-764c4dc661a2|7304ccbb-1305-42af-9607-f5049a7a0b59|F.Cu",
+        "starved_thermal|178225000|72136000|3659f26e-e33e-48b6-b65f-764c4dc661a2|e3a3c9ae-e9e1-4d25-b562-ea439083df4e|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
