@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "2024-power")(type "KiCad")(uri "C:/Users/Idir/Documents/GitHub/2024-backplane/libs/symbols/2024-power.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-power")(type "KiCad")(uri "C:/Users/ayadh/OneDrive/Documents/GitHub/2024-backplane/libs/symbols/2024-power.kicad_sym")(options "")(descr ""))
 )
