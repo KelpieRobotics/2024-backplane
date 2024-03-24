@@ -3047,7 +3047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.5"
 			(at 116.5352 88.9 0)
 			(effects
 				(font
@@ -3184,7 +3184,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470uF/50v"
+		(property "Value" "100uF/100V"
 			(at 150.622 84.074 90)
 			(effects
 				(font
@@ -3193,7 +3193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.5"
 			(at 147.0152 82.55 0)
 			(effects
 				(font
@@ -3901,7 +3901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.5"
 			(at 31.4452 88.9 0)
 			(effects
 				(font
@@ -4105,7 +4105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.5"
 			(at 242.2652 78.74 0)
 			(effects
 				(font
