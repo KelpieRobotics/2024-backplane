@@ -384,7 +384,7 @@
 
   (footprint "2024-backplane:EDAC_Edge_2x10" (layer "F.Cu")
     (tstamp 3fa11911-e4f6-4d99-974c-fb8f6e519ece)
-    (at 139.855 36.01)
+    (at 139.855 33.22)
     (property "Sheetfile" "backplane.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)")
