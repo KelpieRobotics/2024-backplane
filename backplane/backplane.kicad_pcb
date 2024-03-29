@@ -973,7 +973,8 @@
     (property "ki_description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/1c1080e6-eabd-4b05-bf64-a64d9b44a9ad")
-    (fp_text reference "J3" (at -10.9 -7.645) (layer "F.SilkS") hide
+    (attr through_hole)
+    (fp_text reference "J" (at -10.9 -7.645) (layer "F.SilkS") hide
         (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
       (tstamp 3cd2db48-1a5f-4b30-ad5d-5822c69c11a2)
     )
