@@ -70,4 +70,19 @@
       f0d8b86d-2747-4999-9ac2-063524b585d7
     )
   )
+  (model "/home/goop/2024-backplane/libs/3d/Amass MR60 Female.step"
+    (offset (xyz 25 0 4.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model "/home/goop/2024-backplane/libs/3d/Amass MR60 Female.step"
+    (offset (xyz 0 0 4.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model "/home/goop/2024-backplane/libs/3d/Amass MR60 Female.step"
+    (offset (xyz -25 0 4.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
