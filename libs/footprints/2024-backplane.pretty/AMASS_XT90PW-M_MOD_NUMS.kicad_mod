@@ -54,4 +54,9 @@
     (solder_mask_margin 0.1016) (thermal_bridge_angle 0) (tstamp c3e1b207-1e7f-4ffe-8abb-36de953cbcf0))
   (pad "2" thru_hole circle (at 5.2 -0.135) (size 7.016 7.016) (drill 6) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.1016) (thermal_bridge_angle 0) (tstamp 1bca1bde-4bb8-4b4a-96f2-24ae5c310e30))
+  (model "/home/goop/2024-backplane/libs/3d/xt90male.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
