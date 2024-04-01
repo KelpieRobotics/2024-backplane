@@ -2,6 +2,6 @@
   (version 7)
   (lib (name "Kelpie_Default")(type "KiCad")(uri "/home/dobamuffin/Git/2024-backplane/libs/footprints/Kelpie_Default.pretty")(options "")(descr ""))
   (lib (name "ESC-carrier")(type "KiCad")(uri "${KIPRJMOD}/ESC footprints")(options "")(descr ""))
-  (lib (name "2024-backplane")(type "KiCad")(uri "C:/Users/Leo/Downloads/github stuff/2024-backplane/libs/footprints/2024-backplane.pretty")(options "")(descr ""))
+  (lib (name "2024-backplane")(type "KiCad")(uri "/home/dobamuffin/Git/2024-backplane/libs/footprints/2024-backplane.pretty")(options "")(descr ""))
   (lib (name "ESC-Thruster")(type "KiCad")(uri "C:/Users/Leo/OneDrive/Desktop/kicad/ESC carrier board test 1/thruster connector")(options "")(descr ""))
 )
