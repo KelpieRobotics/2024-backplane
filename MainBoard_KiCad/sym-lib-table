@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Orange_Pi5+_GPIO")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/Orange_Pi5+_GPIO.kicad_sym")(options "")(descr ""))
+  (lib (name "Pi_Pico")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/Pi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensors&Servos")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/Sensors&Servos.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-backplane")(type "KiCad")(uri "E:/Kelpie/Year 1/Main Board(scope 2)/Template_Connector/2024-backplane.kicad_sym")(options "")(descr ""))
+  (lib (name "JST connector")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/JST connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Voltage Regulator")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/Voltage Regulator.kicad_sym")(options "")(descr ""))
+  (lib (name "OSTTC020162")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/OSTTC020162.kicad_sym")(options "")(descr ""))
+  (lib (name "USBC")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Symbols/USBC.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Template_Connector")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/Template_Connector")(options "")(descr ""))
+  (lib (name "Template Card")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/Template Card")(options "")(descr ""))
+  (lib (name "MainBoard_Footprints")(type "KiCad")(uri "E:/Kelpie/Year 1/MainBoard_GitHub/MainBoard_Footprints")(options "")(descr ""))
+)
