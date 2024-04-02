@@ -665,6 +665,11 @@
       (net 38 "unconnected-(U7-VBUS-Pad40)") (pinfunction "VBUS") (pintype "power_in+no_connect") (tstamp 5c00b867-fef7-4867-b293-2d3db5785c26))
     (pad "40" smd rect (at 8.89 -15.24) (size 2.54 1.524) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 38 "unconnected-(U7-VBUS-Pad40)") (pinfunction "VBUS") (pintype "power_in+no_connect") (tstamp 53459b8a-c0b9-4410-b003-7e0e8fbe14d6))
+    (model "C:/Users/Leo/Downloads/Pico-R3-step/Pico-R3.step"
+      (offset (xyz -12 -34.5 1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
@@ -900,6 +905,21 @@
       (net 16 "GND") (pinfunction "GND") (pintype "bidirectional") (tstamp 164f725c-9627-4158-abff-1ecf771fc05c))
     (pad "9" thru_hole rect (at 30.47 0) (size 4.75 4.75) (drill 2.95) (layers "*.Cu" "*.Mask")
       (net 4 "/5v") (pinfunction "5V") (pintype "bidirectional") (tstamp 67eea2e6-62e5-494b-a033-eb0a80f5f3ec))
+    (model "C:/Users/Leo/Downloads/MR60PW-M_3D_DRAWING (1).STEP"
+      (offset (xyz -2 -10.5 8))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Leo/Downloads/MR60PW-M_3D_DRAWING (1).STEP"
+      (offset (xyz 23 -10.5 8))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Leo/Downloads/MR60PW-M_3D_DRAWING (1).STEP"
+      (offset (xyz -27 -10.5 8))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "2024-backplane:CardEdge_2x10" (layer "F.Cu")
@@ -1593,6 +1613,11 @@
       (net 39 "sGND") (pinfunction "G") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 84f02aaf-44bd-477e-8770-fddbd48213bd))
     (pad "S" smd rect (at 1.44 7.24 90) (size 1.66 1.13) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 11 "/sGP7") (pinfunction "S") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 459e744c-a0c0-488b-b965-354106b992ef))
+    (model "C:/Users/Leo/OneDrive/Desktop/kicad/ESC carrier board test 1/BESC30-R3.STEP"
+      (offset (xyz 0 0 1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "ESC-carrier:ESC" (layer "B.Cu")
@@ -1656,6 +1681,11 @@
       (net 39 "sGND") (pinfunction "G") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 5511486e-b85f-40e5-b76b-5e345adbe8e1))
     (pad "S" smd rect (at 1.44 7.24 90) (size 1.66 1.13) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 10 "/sGP6") (pinfunction "S") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 5e81825c-4d67-4ff8-a2dd-27de5e66a9e5))
+    (model "C:/Users/Leo/OneDrive/Desktop/kicad/ESC carrier board test 1/BESC30-R3.STEP"
+      (offset (xyz 0 0 1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "ESC-carrier:ESC" (layer "B.Cu")
@@ -1719,6 +1749,11 @@
       (net 39 "sGND") (pinfunction "G") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 57c7b5a5-5747-4fc5-965e-f3480993560e))
     (pad "S" smd rect (at 1.44 7.24 90) (size 1.66 1.13) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 12 "/sGP8") (pinfunction "S") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 87dc7028-eaad-4c7d-bb50-24dc822d5172))
+    (model "C:/Users/Leo/OneDrive/Desktop/kicad/ESC carrier board test 1/BESC30-R3.STEP"
+      (offset (xyz 0 0 1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (gr_line (start 127.756 47.42) (end 127.756 75.36)
