@@ -1,5 +1,5 @@
-# 2024-backplane
-schematics and pcb designs for 2024 backplane go here
+# 2024-MainBoard
+schematics and PCB designs for 2024 MainBoard go here
 
 ## how to use
 
