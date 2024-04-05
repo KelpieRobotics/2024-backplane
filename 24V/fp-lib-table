@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2024-power")(type "KiCad")(uri "/Users/colin/Documents/GitHub/2024-backplane/libs/footprints/2024-power.pretty")(options "")(descr ""))
   (lib (name "2024-backplane")(type "KiCad")(uri "/Users/colin/Documents/GitHub/2024-backplane/libs/footprints/2024-backplane.pretty")(options "")(descr ""))
+  (lib (name "silks")(type "KiCad")(uri "/Users/colin/Documents/GitHub/2024-backplane/libs/footprints/silk.pretty")(options "")(descr ""))
 )
