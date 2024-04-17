@@ -140,7 +140,7 @@
 		(uuid "01d3a39f-34f1-452d-9e94-6fedc114c7ef")
 		(at 183 61 90)
 		(property "Reference" "G***"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0e2c6936-3427-4a5c-9b82-33fe60cbb69e")
@@ -152,7 +152,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 270)
+			(at 0.75 0 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f2e53f49-1931-4977-8091-c6d1bb8f22ca")
